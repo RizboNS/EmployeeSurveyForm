@@ -1,13 +1,22 @@
 body {
     background-color: dimgrey;
+    text-align: center;
 }
 .labels {
     display: inline-block;
     text-align: left;
     vertical-align: top;
+    width: 280px;
 }
 .input {
     display: inline-block;
     text-align: right;
-    vertical-align: left;
+    vertical-align: middle;
+    height: 20px;
+    width: 280px;
+    padding: 5px;
+}
+.form-rows {
+    position: static;
+    display: block;
 }
