@@ -1,3 +1,13 @@
 body {
     background-color: dimgrey;
 }
+.labels {
+    display: inline-block;
+    text-align: left;
+    vertical-align: top;
+}
+.input {
+    display: inline-block;
+    text-align: right;
+    vertical-align: left;
+}
