@@ -12,7 +12,6 @@ body {
     display: inline-block;
     text-align: right;
     vertical-align: middle;
-    height: 20px;
     width: 280px;
     padding: 5px;
 }
@@ -20,3 +19,4 @@ body {
     position: static;
     display: block;
 }
+
